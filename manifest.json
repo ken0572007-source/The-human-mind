@@ -1,0 +1,17 @@
+{
+  "name": "The Human Mind \u2014 Psychology, Explained",
+  "short_name": "The Human Mind",
+  "description": "A free psychology learning hub with topics, fictional case files, scenarios and film recommendations.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#111012",
+  "theme_color": "#151117",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
